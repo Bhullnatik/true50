@@ -28,7 +28,7 @@ True50 uses a number of open source Python libraries:
 * [Requests] : Make easy HTTP requests
 * [BeautifulSoup] : Web scrapping python library
 
-More informations on the versions used are available in `[requirements.txt](requirements.txt)`.
+More informations on the versions used are available in [requirements.txt](./requirements.txt).
 
 ### Help
 
