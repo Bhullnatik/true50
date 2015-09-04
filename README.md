@@ -1,4 +1,4 @@
-![PyPi](https://img.shields.io/pypi/v/true50.svg?style=flat) ![Python versions](https://img.shields.io/pypi/pyversions/true50.svg?style=flat)
+[![PyPi](https://img.shields.io/pypi/v/true50.svg?style=flat)](https://pypi.python.org/pypi/true50) [![Python versions](https://img.shields.io/pypi/pyversions/true50.svg?style=flat)](https://www.python.org/)
 
 # True50
 
