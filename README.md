@@ -1,5 +1,5 @@
-[![PyPi](https://img.shields.io/pypi/v/true50.svg?style=flat)](https://pypi.python.org/pypi/true50)
-[![Python versions](https://img.shields.io/pypi/pyversions/true50.svg?style=flat)](https://www.python.org/)
+[![PyPi](https://img.shields.io/pypi/v/true50.svg)](https://pypi.python.org/pypi/true50)
+[![Python versions](https://img.shields.io/pypi/pyversions/true50.svg)](https://www.python.org/)
 
 # True50
 
