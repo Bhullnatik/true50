@@ -1,8 +1,9 @@
-[![PyPi](https://img.shields.io/pypi/v/true50.svg?style=flat)](https://pypi.python.org/pypi/true50) [![Python versions](https://img.shields.io/pypi/pyversions/true50.svg?style=flat)](https://www.python.org/)
+[![PyPi](https://img.shields.io/pypi/v/true50.svg?style=flat)](https://pypi.python.org/pypi/true50)
+[![Python versions](https://img.shields.io/pypi/pyversions/true50.svg?style=flat)](https://www.python.org/)
 
 # True50
 
-True50 is a Python script to open [true5050.com] links. It supports both Python2 and 3.
+True50 is a Python script to open [true5050.com] links. It supports both Python 2 and 3.
 
 ### Installation
 
